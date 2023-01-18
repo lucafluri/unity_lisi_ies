@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 35d0fcd6759225540bec45cd7fe89936
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1991
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 720
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: Ribag
+    LuminaireCatalogNumber: 4170.x
+    LuminaireDescription: MILUM Wallwasher
+    LampCatalogNumber: 
+    LampDescription: 8x2 Samsung LM101a
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ab67a241b9f1f364b9fb08e5ba683ebe
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1991
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 620
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: Ribag
+    LuminaireCatalogNumber: 4165.060.x
+    LuminaireDescription: "MILUM Downlight 60\uFFFD 4er Modul"
+    LampCatalogNumber: 
+    LampDescription: Cree XP-G2 HE (XPGBWT-UE-0000-00EE7)
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90

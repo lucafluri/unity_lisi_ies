@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: fe0276eb9f5c9c348b9f792566e2e1d8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1991
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 1200
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: Ribag
+    LuminaireCatalogNumber: 4165.030.x
+    LuminaireDescription: "MILUM Downlight 30\uFFFD 8er Modul"
+    LampCatalogNumber: 
+    LampDescription: 8xCreeXP-G2-HE
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90

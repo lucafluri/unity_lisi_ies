@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 593dd262da7996a42825fb1ae1692c20
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1991
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 1185
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: RIBAG Licht AG
+    LuminaireCatalogNumber: 4160.090.30.x
+    LuminaireDescription: MILUM Einzelleuchte opal 900 mm
+    LampCatalogNumber: 
+    LampDescription: LED
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90
